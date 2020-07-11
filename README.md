@@ -1,6 +1,6 @@
 # YourCraft.pl discord bot
-Offical discord bot for YourCraft.pl.\n
-To install run:\n
-`npm install`\n
-Start:\n
-`npm start`\n
+Offical discord bot for YourCraft.pl.<br />
+To install run:<br />
+`npm install`<br />
+Start:<br />
+`npm start`<br />
